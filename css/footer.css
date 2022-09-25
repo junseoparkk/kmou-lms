@@ -1,0 +1,27 @@
+.footerbody{
+    height: 70px;
+}
+
+.address{
+    margin: 25px 0 7px 130px;
+    padding: 3px 0 0 0;
+    font-size: 14px;
+    color: #666;
+    font-style: normal;
+}
+
+.copyright{
+    margin-left:130px;
+    padding: 1px 0 3px 0;
+    font-size: 14px;
+    color: #666;
+    font-style: normal;
+}
+
+.f1{
+    color:#009aff;
+}
+
+.f2{
+    color:red;
+}
