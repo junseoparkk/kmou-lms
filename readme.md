@@ -2,7 +2,11 @@
 
 <img width="80%" alt="kmoulms" src="https://user-images.githubusercontent.com/98972385/192137077-f0a68277-a1de-43d0-b567-cb6b5f465c1a.png">
 
-Top of the page
+[ Top of the page ] </br>
+
+<img width="80%" alt="footer" src="https://user-images.githubusercontent.com/98972385/192137634-81d2f6dc-f340-456a-94d8-a77cd3596968.png">
+
+[ Middle, Bottom of the Page ]
 
 </br></br>
 
@@ -15,13 +19,14 @@ I devided it into 3parts.</br>
 - Middle : Main contents</br>
 - Bottom : Footer
 
-</br></br>
+</br>
 
 <h2>Environment</h2>
 - MacOS</br>
 - VS Code
+- HTML5 , CSS
 
-</br></br>
+</br>
 
 <h2>Usage</h2>
 Just download all files, save to the same folder.</br>
